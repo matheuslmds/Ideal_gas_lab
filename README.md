@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="outros_arquivos/header_ilum.png" width="100%">
 </p>
@@ -174,3 +175,7 @@ Em seguida, abra o arquivo do projeto e execute as células em ordem.
 ---
 
 
+=======
+# Projeto_PCD_gases-ideais
+Projeto desenvolvido por Matheus Luiz Mendes de Souza, aluno da Ilum Escola de Ciência. Nesse projeto foi desenvolvido um laboratório virtual interativo para estudar a teoria cinética dos gases através da simulação de partículas em uma caixa bidimensional.
+>>>>>>> f37d99c181b6a0413c32026b7fa888632ee9f026
