@@ -2,7 +2,7 @@
   <img src="outros_arquivos/header_ilum.png" width="100%">
 </p>
 
-<h1 style="text-align: center;">Laboratório virtual de gases ideais (Ideal Gas Lab)</h1>
+<h1 style="text-align: center;">   Laboratório virtual de gases ideais (Ideal Gas Lab)  </h1>
 
 ---
 
@@ -54,11 +54,11 @@ pip install pygame
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/ideal-gas-lab.git
+git clone https://github.com/SEU_USUARIO/Ideal_gas_lab.git
 ```
 
 ```bash
-cd ideal-gas-lab
+cd Ideal_gas_lab
 ```
 
 ### Executando a simulação
