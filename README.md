@@ -117,7 +117,7 @@ Em seguida, abra o arquivo do projeto e execute as células em ordem.
 
 ## Docentes responsáveis
 
-> O trabalho realizado só foi possível com a ajuda e o conhecimento passado pelos professores da disciplina Práticas em Ciências de Dados.
+> Este trabalho só foi possível graças ao apoio e aos conhecimentos compartilhados pelos professores da disciplina de Práticas em Ciências de Dados.
 
 <table>
   <tr>
@@ -145,7 +145,7 @@ Em seguida, abra o arquivo do projeto e execute as células em ordem.
 ---
 
 ## Idealização
-> O projeto foi idealizado por Matheus Luiz Mendes de Souza. Aluno do primeiro semestre da Ilum - Escola de Ciência. 
+> O projeto foi idealizado por Matheus Luiz Mendes de Souza, aluno do primeiro semestre do curso de Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciência. 
 <table>
   <tr>
 
@@ -172,3 +172,9 @@ Em seguida, abra o arquivo do projeto e execute as células em ordem.
 - SCHROEDER, Daniel V. An Introduction to Thermal Physics. San Francisco: Addison Wesley, 2000.
 
 ---
+
+## Licença
+
+Distribuído sob a licença GNU General Public License 3.0 (GPL-3.0).
+
+Consulte o arquivo `LICENSE` para mais informações. 
