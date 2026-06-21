@@ -165,7 +165,7 @@ Em seguida, abra o arquivo do projeto e execute as células em ordem.
 
 - HUMBERTO. Pygame. Humberto.io, [s.d.]. Disponível em: <https://humberto.io/pt-br/tags/pygame/>. Acesso em: 3 jun. 2026.
   
-- Este projeto contou com o auxílio do ChatGPT para correção ortográfica e estruturação do README. OPENAI. ChatGPT. Modelo de linguagem. Disponível em: <https://chat.openai.com/>. Acesso em: 16 jun. 2026.
+- Este projeto contou com o auxílio do ChatGPT para correção ortográfica, estruturação do README, sugestões para a simulação e ajuda na correção de bugs. OPENAI. ChatGPT. Modelo de linguagem. Disponível em: <https://chat.openai.com/>. Acesso em: 16 jun. 2026.
 
 - UNIVERSIDADE DO COLORADO BOULDER. Propriedades dos gases. PhET Interactive Simulations, [s.d.]. Disponível em: <https://phet.colorado.edu/pt_BR/simulations/gas-properties>. Acesso em: 2 jun. 2026.
 
