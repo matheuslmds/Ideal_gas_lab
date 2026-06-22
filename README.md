@@ -45,11 +45,6 @@ Certifique-se de possuir instalado:
 * 🎮 Pygame
 * 📓 Jupyter Notebook (caso deseje executar o projeto no notebook)
 
-### Instalação do Pygame
-
-```bash
-pip install pygame
-```
 
 ### Clonando o repositório
 
@@ -63,19 +58,29 @@ cd Ideal_gas_lab
 
 ### Executando a simulação
 
-Caso esteja utilizando o script Python:
+O projeto foi desenvolvido em um notebook Jupyter. Com isso, siga as seguintes instruções para executar a simulação:
+
+1. Instale as dependências:
 
 ```bash
-python ideal_gas_lab.py
+pip install pygame notebook
 ```
 
-Caso esteja utilizando o notebook:
+2. Inicie o Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-Em seguida, abra o arquivo do projeto e execute as células em ordem.
+3. Abra o arquivo:
+
+```text
+ideal_gas_lab.ipynb
+```
+
+4. Execute todas as células em ordem para iniciar a simulação.
+
+---
 
 ### Controles da simulação
 
